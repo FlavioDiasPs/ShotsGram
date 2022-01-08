@@ -19,22 +19,24 @@
 # Como Usar / How to Use
 #### pt-BR
 <p>Para usar é simples, entre no telegram e pesquisa por @BotFather para iniciar a criação do seu bot de telegram;</p>
-<p>Clique em /start para começar e em seguida digite /newbot.</p>
+<p>Clique em /start para começar e em seguida digite /newbot;</p>
 <p>Digite um nome para seu bot e após isso tecle enter;</p>
 <p>Digite um nome de usuário para seu bot (importante que neste nome tenha "Bot" nele) por exemplo: MeuPrimeiroRobo_bot ou MeuPrimeiroRoboBot;</p>
-<p>Agora pegue o link que o BotFather te forneceu como algo parecido de "t.me/NomeDoSeuBot" e também o Token que deve ser algo semelhante com "52930512641:ABRS25VND2LPWSzVw525c-LmNw29Oz_dXU6" e salve-os.</p>
-<p>Abra o código "bot.py" e procure por "TOKEN", dentro das aspas coloque o Token que você salvou e logo abaixo dele defina uma senha para você acessar seu bot.</p>
-<p>Agora abra o link que você também salvou do seu bot e digite "/start" para começar.</p>
+<p>Agora pegue o link que o BotFather te forneceu como algo parecido de "t.me/NomeDoSeuBot" e também o Token que deve ser algo semelhante com "52930512641:ABRS25VND2LPWSzVw525c-LmNw29Oz_dXU6" e salve-os;</p>
+<p>Abra o código "bot.py" e procure por "TOKEN", dentro das aspas coloque o Token que você salvou e logo abaixo dele defina uma senha para você acessar seu bot;</p>
+<p>Abra o Prompt de Comando dentro da pasta "ShotsGram" e digite "python bot.py";</p>
+<p>Agora abra o link que você também salvou do seu bot e digite "/start" para começar;</p>
 <p>Após logar no seu bot (com /password SUA_SENHA) você deve utilizar o comando "/screenshot" para tirar capturas de tela do seu monitor.</p>
 
 #### en-US
 <p>It's simple to use, enter the telegram and search for @BotFather to start creating your telegram bot;</p>
-<p>Click /start to get started and then type /newbot.</p>
+<p>Click /start to get started and then type /newbot;</p>
 <p>Type a name for your bot and after that hit enter;</p>
 <p>Enter a username for your bot (important that this name has "Bot" in it) for example: MyFirstRobo_bot or MyFirstRoboBot;</p>
-<p>Now take the link that BotFather provided you with something like "t.me/NameDoYourBot" and also the Token that should look something like "52930512641:ABRS25VND2LPWSzVw525c-LmNw29Oz_dXU6" and save them.</p>
-<p>Open the code "bot.py" and look for "TOKEN", inside the quotes put the Token you saved and right below it define a password for you to access your bot.</p>
-<p>Now open the link you also saved from your bot and type "/start" to start.</p>
+<p>Now take the link that BotFather provided you with something like "t.me/NameDoYourBot" and also the Token that should look something like "52930512641:ABRS25VND2LPWSzVw525c-LmNw29Oz_dXU6" and save them;</p>
+<p>Open the code "bot.py" and look for "TOKEN", inside the quotes put the Token you saved and right below it define a password for you to access your bot;</p>
+<p>Open the Command Prompt inside the "ShotsGram" folder and type "python bot.py";</p>
+<p>Now open the link you also saved from your bot and type "/start" to start;</p>
 <p>After logging into your bot (with /password YOUR_PASSWORD) you must use the "/screenshot" command to take screenshots of your monitor.</p>
 
 # Atenção / Attention
