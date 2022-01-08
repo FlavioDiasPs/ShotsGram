@@ -8,7 +8,7 @@
 # Pré Requisitos / Pre Requirements
 #### pt-BR
 <p>O requisito mais importante de todos: instalar Python 3.7.0;<br>
-Segundo requisito: antes de utilizar o código, é necessário instalar as bibliotecas não nativas do Python que ele utiliza e você pode fazer isso da seguinte forma pelo Prompt de Comando (executando como administrador):</p>
+<p>Segundo requisito: antes de utilizar o código, é necessário instalar as bibliotecas não nativas do Python que ele utiliza e você pode fazer isso da seguinte forma pelo Prompt de Comando (executando como administrador):</p>
 <p>Digite no Prompt de Comando e dê enter:  pip install -r requirements.txt</p>
 
 #### en-US
